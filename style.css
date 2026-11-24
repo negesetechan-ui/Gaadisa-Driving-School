@@ -156,10 +156,11 @@ nav a:hover {
 /* Hero Banner */
 .gaddis-banner {
     background: linear-gradient(rgba(13, 37, 63, 0.85), rgba(13, 37, 63, 0.85)),
-                url('https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+                url("https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat;
     color: #fff;
     text-align: center;
     padding: 100px 20px;
+    backgroudcolor:grey;
 }
 
 .gaddis-banner h2 {
