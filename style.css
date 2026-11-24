@@ -155,13 +155,13 @@ nav a:hover {
 
 /* Hero Banner */
 .gaddis-banner {
-    background: linear-gradient(rgba(13, 37, 63, 0.85), rgba(13, 37, 63, 0.85)),
-                url("https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat;
-    color: #fff;
+    background: linear-gradient(rgba(13, 37, 63, 0.84), rgba(13, 37, 63, 0.88)),
+                url('/imag/hero-driver.jpg') center/cover no-repeat;
+    color: var(--white);
     text-align: center;
-    padding: 100px 20px;
-    backgroudcolor:grey;
+    padding: 95px 20px;
 }
+
 
 .gaddis-banner h2 {
     font-size: 2.5rem;
